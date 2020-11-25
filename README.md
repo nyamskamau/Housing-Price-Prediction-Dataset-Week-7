@@ -5,3 +5,7 @@ My analysis of the Housing Price Prediction Dataset using:
  * Quantile Regression 
  * Ridge Regression
  * ElasticNet Regression
+ * Decision Trees
+ * RandomForest
+ * AdaBoost
+ * GradientBoost
